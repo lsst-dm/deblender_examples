@@ -1,3 +1,4 @@
-#deblender_examples
+deblender_examples
+------------------
 
-Validation tests and examples for the new deblender._
+Validation tests and examples for the new deblender.
